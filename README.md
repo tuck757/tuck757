@@ -7,7 +7,7 @@ I am a US Navy Veteran with cybersecurity experience, respected industry certifi
 My journey in information security has led me to develop a passion for cybersecurity, and I am eager to join a Security Operations Center (SOC) as an Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+#Provide skills and associated project. Make sure to hyperlink the project 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
