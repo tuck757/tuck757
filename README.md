@@ -43,7 +43,7 @@ My journey in information security has led me to develop a passion for cybersecu
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/bd542412-cd25-4cba-9677-b1b5bf564068/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 </div>
 
