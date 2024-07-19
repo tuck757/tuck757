@@ -11,8 +11,8 @@ My journey in information security has led me to develop a passion for cybersecu
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="[https://github.com/tuck757/Decryption-Lab]">Decryption Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="[https://github.com/tuck757/Network-Analysis/blob/main/README.md]">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/tuck757/Decryption-Lab/"><Decryption Lab></a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/tuck757/Network-Analysis/blob/main/README.md"><Detection Lab></a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
